@@ -1,0 +1,6 @@
+{
+  "name": "Blockrealms",
+  "siteId": "b513921b-a308-46bf-baa7-b2fc0764d57f",
+  "deployManifest": "./sites.deploy.json",
+  "assets": "./dist"
+}
